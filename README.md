@@ -44,3 +44,9 @@ The following **bonus** features are implemented:
 
 - [ ] User can add a profile picture. (2pts)
 - [ ] Profile pictures are shown for posts and comments. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+![](https://user-images.githubusercontent.com/30938391/160724446-656220c2-912f-4ada-a678-c2353d3d7901.gif)
